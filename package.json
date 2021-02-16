@@ -18,7 +18,7 @@
         "jshint": "node node_modules/jshint/bin/jshint bin && node node_modules/jshint/bin/jshint tests"
     },
     "dependencies": {
-        "adm-zip": "^0.4.7",
+        "adm-zip": "^0.5.2",
         "cordova-serve": "^1.0.0",
         "nopt": "^3.0.6",
         "q": "^1.4.1",
